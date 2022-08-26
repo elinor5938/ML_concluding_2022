@@ -1,5 +1,5 @@
 ## Conluding assignment
-Elinor Peer and Esraa Nassara  - Machine learning, BGU, 2022
+Elinor Peer and Esraa Nsasra  - Machine learning, BGU, 2022
 
 This Repository contain 6 python files :
 
